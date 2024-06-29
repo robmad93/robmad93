@@ -60,4 +60,5 @@ I'm open to collaborating on interesting projects, especially those related to:
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+
 [LinkedIn](https://www.linkedin.com/in/robert-madigan/)

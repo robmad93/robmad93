@@ -40,6 +40,7 @@ I'm currently expanding my web development skills:
 Aside from my university education, I have continued upskilling in my free time. 
 Feel free to check my LinkedIn profile (link: [LinkedIn](https://www.linkedin.com/in/robert-madigan/)) to see my certifications.
 Here are some of my favourite learning platforms:
+
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
@@ -58,4 +59,4 @@ I'm open to collaborating on interesting projects, especially those related to:
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
-- [LinkedIn](https://www.linkedin.com/in/robert-madigan/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/robert-madigan/)

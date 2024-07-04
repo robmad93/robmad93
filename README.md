@@ -38,7 +38,7 @@ I'm currently expanding my web development skills:
 
 ## Learning platforms
 Aside from my university education, I have continued upskilling in my free time. 
-Feel free to check my LinkedIn profile (link: [LinkedIn](https://www.linkedin.com/in/robert-madigan/)) to see my certifications.
+Feel free to check my [LinkedIn](https://www.linkedin.com/in/robert-madigan/) to see my certifications.
 Here are some of my favourite learning platforms:
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)

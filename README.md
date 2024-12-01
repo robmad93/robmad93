@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm passionate about a wide range of topics, from 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3654671" style='border:none;'></iframe>
+
 Here's a little more about me:
 
 ## About Me

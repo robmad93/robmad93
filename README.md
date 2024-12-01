@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm passionate about a wide range of topics, from 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RobMad.png)
 
 Here's a little more about me:
 

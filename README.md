@@ -30,14 +30,8 @@ Here's a little more about me:
 - 🗣️ **Languages**: Advanced in French and German. Also learning Spanish, Irish, and Japanese
 - 🏃 **Exercise**: Running, Gaelic football, gym
 - 📚 **Hobbies**: Reading, meditation, video games, movies, travelling
-- 💻 **Coding**: R, Python, SQL
+- 💻 **Coding**: R, Python, SQL, Javascript
 
-
-## Currently Learning
-
-I'm currently expanding my web development skills:
-- 🌐 **HTML & CSS**: Learning the basics of web design
-- ⚙️ **JavaScript**: Planning to learn next to enhance my web development capabilities
 
 ## Learning platforms
 Aside from my university education, I have continued upskilling in my free time. 

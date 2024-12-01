@@ -15,4 +15,3 @@ jobs:
         with:
           username: "<your-tryhackme-username>"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          image_path: "assets/tryhackme-badge.png"
